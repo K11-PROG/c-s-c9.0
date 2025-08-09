@@ -1,32 +1,52 @@
-[
-  {
-    "date": "2025-08-01",
-    "saint": "St. Alphonsus Liguori",
-    "color": "white",
-    "type": "Memorial"
-  },
-  {
-    "date": "2025-08-02",
-    "saint": "St. Eusebius of Vercelli",
-    "color": "white",
-    "type": "Optional Memorial"
-  },
-  {
-    "date": "2025-08-03",
-    "saint": "18th Sunday in Ordinary Time",
-    "color": "green",
-    "type": "Sunday"
-  },
-  {
-    "date": "2025-08-04",
-    "saint": "St. John Vianney",
-    "color": "white",
-    "type": "Memorial"
-  },
-  {
-    "date": "2025-08-05",
-    "saint": "St. Oswald",
-    "color": "white",
-    "type": "Optional Memorial"
-  }
-]
+{
+    "2025-08-01": {
+        "saint": "Saint Alphonsus Liguori, Bishop and Doctor of the Church",
+        "type": "Memorial",
+        "liturgical_color": "White"
+    },
+    "2025-08-02": {
+        "saint": "Saint Eusebius of Vercelli, Bishop; Saint Peter Julian Eymard, Priest",
+        "type": "Optional Memorial",
+        "liturgical_color": "White"
+    },
+    "2025-08-04": {
+        "saint": "Saint John Vianney, Priest",
+        "type": "Memorial",
+        "liturgical_color": "White"
+    },
+    "2025-08-06": {
+        "saint": "The Transfiguration of the Lord",
+        "type": "Feast",
+        "liturgical_color": "White"
+    },
+    "2025-08-10": {
+        "saint": "Saint Lawrence, Deacon and Martyr",
+        "type": "Feast",
+        "liturgical_color": "Red"
+    },
+    "2025-08-15": {
+        "saint": "The Assumption of the Blessed Virgin Mary",
+        "type": "Solemnity",
+        "liturgical_color": "White"
+    },
+    "2025-08-20": {
+        "saint": "Saint Bernard, Abbot and Doctor of the Church",
+        "type": "Memorial",
+        "liturgical_color": "White"
+    },
+    "2025-08-22": {
+        "saint": "The Queenship of the Blessed Virgin Mary",
+        "type": "Memorial",
+        "liturgical_color": "White"
+    },
+    "2025-08-24": {
+        "saint": "Saint Bartholomew, Apostle",
+        "type": "Feast",
+        "liturgical_color": "Red"
+    },
+    "2025-08-28": {
+        "saint": "Saint Augustine, Bishop and Doctor of the Church",
+        "type": "Memorial",
+        "liturgical_color": "White"
+    }
+}
