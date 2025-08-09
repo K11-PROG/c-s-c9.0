@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2025-08-01",
+    "saint": "St. Alphonsus Liguori",
+    "color": "white",
+    "type": "Memorial"
+  },
+  {
+    "date": "2025-08-02",
+    "saint": "St. Eusebius of Vercelli",
+    "color": "white",
+    "type": "Optional Memorial"
+  },
+  {
+    "date": "2025-08-03",
+    "saint": "18th Sunday in Ordinary Time",
+    "color": "green",
+    "type": "Sunday"
+  },
+  {
+    "date": "2025-08-04",
+    "saint": "St. John Vianney",
+    "color": "white",
+    "type": "Memorial"
+  },
+  {
+    "date": "2025-08-05",
+    "saint": "St. Oswald",
+    "color": "white",
+    "type": "Optional Memorial"
+  }
+]
